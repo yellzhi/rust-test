@@ -1,8 +1,8 @@
 [package]
-name = "car09-mod"
+name = "car11_panic"
 version = "0.1.0"
 edition = "2018"
 
-restaurant = "../car09_01lib_restaurant"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
 [dependencies]
